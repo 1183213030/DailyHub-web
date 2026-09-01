@@ -1,0 +1,26 @@
+{
+  "name": "聚合签到",
+  "short_name": "聚合签到",
+  "description": "日常权益直达 · 纯本地 · 安全直达",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090A0F",
+  "theme_color": "#090A0F",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
